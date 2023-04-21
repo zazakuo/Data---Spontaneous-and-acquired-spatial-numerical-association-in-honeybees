@@ -1,0 +1,12 @@
+---
+title: "index"
+author: ""
+date: ""
+output: html_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../docs") })
+---
+Here is your template for making a RMakrdown webpage. You can just delete this and make a new one.
+
+```{r}
+```
